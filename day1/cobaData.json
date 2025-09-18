@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Citra", "age": 18, "city": "Salem" },
+  { "id": 2, "name": "Amelia", "age": 19, "city": "Brebes" },
+  { "id": 3, "name": "Juju", "age": 25, "city": "Surabaya" },
+  { "id": 4, "name": "Ali", "age": 30, "city": "Jaksel" },
+  { "id": 5, "name": "Dedi", "age": 28, "city": "Bandung" }
+]
